@@ -49,7 +49,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://cdn.dribbble.com/users/5146260/screenshots/12905328/streamlit_4x.jpg" width=280>](https://docs.streamlit.io/)[<img target="_blank" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" width=280>](https://pandas.pydata.org/)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://miro.medium.com/max/1007/1*lQF-jVhavJ5Is3lJMa7HEw.png" width=280>](https://www.nltk.org/)[<img target="_blank" src="https://cdn.dribbble.com/users/5146260/screenshots/12905328/streamlit_4x.jpg" width=280>](https://docs.streamlit.io/)[<img target="_blank" src="https://www.pinclipart.com/picdir/big/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" width=280>](https://pandas.pydata.org/)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Bug / Feature Request
