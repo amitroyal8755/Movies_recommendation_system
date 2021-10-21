@@ -13,13 +13,12 @@
 ## Demo
 Link: [https://mrs-amit.herokuapp.com/](https://mrs-amit.herokuapp.com/)
 
-[![](https://imgur.com/7PFNhuZ.png)](https://laptop-mramit.herokuapp.com/)
-[![](https://imgur.com/NTasfYt.png)](https://laptop-mramit.herokuapp.com/)
-[![](https://imgur.com/nfPqBMM.png)](https://laptop-mramit.herokuapp.com/)
-[![](https://imgur.com/jUfxDs3.png)](https://laptop-mramit.herokuapp.com/)
+[![](https://imgur.com/rGoFcoP.png)](https://mrs-amit.herokuapp.com/)
+[![](https://imgur.com/9f5OzHi.png)](https://mrs-amit.herokuapp.com/)
+
 
 ## Overview
-This is a Streamlit web app which predicts Laptop price in india.
+This is a Streamlit web app which Recommend Hollywood Movies.
 
 
 ## Installation
@@ -38,9 +37,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 ├── README.md
 ├── app.py
-├── laptop.ipynb
-├── laptop_data
-├── pipe_3.pkl
+├── project_1.ipynb
+├── movie_dict.pkl
+├── similarity.pkl
 ├── setup
 ├── .gitignore
 ├── requirements.txt
@@ -55,10 +54,10 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/amitroyal8755/Laptop-Price-Predication/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/amitroyal8755/Movies_recommendation_system/issues) here by including your search query and the expected result
 
 ## Future Scope
 
-* Use multiple Algorithms
-* Optimize streamlit run app.py
+* Netrual language processing
+* Optimize streamlit  app.py
 * Front-End 
